@@ -1,5 +1,5 @@
 Hello!<br>
-This is about the <b>extention for Qlik Sense</b>, for UI|UX elements like a display|hide <b>vertical side menu</b> for using saved filter objects (filtering objects of loaded datamodel).
+This is about the <b>extention for Qlik Sense</b>, for UI|UX elements like a display|hide <b>vertical side menu</b> for using saved filter objects (filtering fields of loaded datamodel).
 
 Original repo of qs-side-menu is there: [https://github.com/LorisLombardo87/qs-side-menu]
 
