@@ -9,6 +9,7 @@ It was done quickly, may have errors or troubles... If you want to use it, so be
 Anyway, my task was solved quickly and it works in my environment without any errors.
 <br><br>
 Thank you.
+<br>You may download the zip from right sige -> Releases (1) v 1.00
 <hr>
 <img src="./desc_0_btn.png" alt="image of example"><br>
 <img src="./desc_1_btn.png" alt="image of example"><br>
