@@ -14,5 +14,5 @@ Thank you.
 <img src="./desc_0_btn.png" alt="image of example"><br>
 <img src="./desc_1_btn.png" alt="image of example"><br>
 <img src="./desc_2_tags_for_groups.png" alt="image of example"><br>
-<img src="./desc_33_tags_for_groups_settings.png" alt="image of example"><br>
+<img src="./desc_3_tags_for_groups_settings.png" alt="image of example"><br>
 <img src="./desc_4_tags_for_only_filters_savedobjects.png" alt="image of example"><br>
