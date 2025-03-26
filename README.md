@@ -1,5 +1,5 @@
 Hello!<br>
-This is about the <b>extention for Qlik Sense</b>, for UI|UX elements like a <b>vertical menu</b> for navigations (http and pages of current app).
+This is about the <b>extention for Qlik Sense</b>, for UI|UX elements like a display|hide <b>vertical side menu</b> for navigations (http and pages of current app).
 
 Original repo of qs-side-menu is there: [https://github.com/LorisLombardo87/qs-side-menu]
 
