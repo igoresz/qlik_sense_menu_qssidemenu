@@ -10,7 +10,7 @@ Anyway, my task was solved quickly and it works in my environment without any er
 <br><br>
 Thank you.
 <hr>
-<img src="https://github.com/igoresz/qlik_sense_menu_sistel/blob/main/desc_0_btn.png" alt="image of example"><br>
+<img src="./desc_0_btn.png" alt="image of example"><br>
 <img src="https://github.com/igoresz/qlik_sense_menu_sistel/blob/main/desc_1_btn.png" alt="image of example"><br>
 <img src="https://github.com/igoresz/qlik_sense_menu_sistel/blob/main/desc_2_tags_for_groups.png" alt="image of example"><br>
 <img src="https://github.com/igoresz/qlik_sense_menu_sistel/blob/main/desc_3_tags_for_groups_settings.png" alt="image of example"><br>
