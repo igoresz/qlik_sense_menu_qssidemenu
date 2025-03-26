@@ -1,7 +1,7 @@
 Hello!<br>
-This is about the <b>extention for Qlik Sense</b>, for UI|UX elements like a <b>horizontal menu</b> for navigations (http and pages of current app).
+This is about the <b>extention for Qlik Sense</b>, for UI|UX elements like a <b>vertical menu</b> for navigations (http and pages of current app).
 
-Original repo of menu_sistel is there: [https://github.com/LorisLombardo87/qs-side-menu]
+Original repo of qs-side-menu is there: [https://github.com/LorisLombardo87/qs-side-menu]
 
 Here is a clone of one of original versions with some <b>local changes</b>.
 It was done quickly, may have errors or troubles... If you want to use it, so be sure that you use it as is, without any "garanty or warranty" or any other obligations|regulations.
